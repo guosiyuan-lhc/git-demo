@@ -1,3 +1,4 @@
-HelloWorld
+HelloWorld "Haha"
 Git Add
 Git Commit
+Git Status
